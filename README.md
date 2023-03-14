@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berlamers
-- 👀 I’m interested in cloud computing and front-end
+- 👀 I’m interested in cloud computing and QA
 - 🌱 I’m currently learning Python, front-end and OOP
 
 <!---
